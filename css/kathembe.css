@@ -1,0 +1,29 @@
+.content{
+  margin-top: 40px;
+  margin-left: 80px;
+}
+.main{
+  color: #046141;
+  float: right;;
+  width: 75%;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+}
+.logo{
+  color: #046141;
+  border: 2px solid #046141;
+  padding: 10px;
+  float: left;
+  font-family: forte;
+  font-style: italic;
+  font-family: Comic Sans MS;
+
+}
+.size{
+  width: 200px;
+}
+.title{
+  font-size: 50px;
+  color: #05724C;
+}
