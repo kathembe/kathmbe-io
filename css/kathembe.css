@@ -1,6 +1,9 @@
 .content{
-  margin-top: 40px;
+border: 2px;
+padding: 50px;
+  margin-top: 5px;
   margin-left: 80px;
+  margin-bottom: 40px
 }
 .main{
   color: #046141;
@@ -26,4 +29,12 @@
 .title{
   font-size: 50px;
   color: #05724C;
+}
+.subtopic{
+font-weight: bolder;
+}
+.plist{
+  float: right;
+  width: 90%;
+  text-align: left;
 }
