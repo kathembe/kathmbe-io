@@ -38,3 +38,6 @@ font-weight: bolder;
   width: 90%;
   text-align: left;
 }
+.clist{
+  float: left;
+}
